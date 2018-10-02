@@ -1,0 +1,11 @@
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/bin/Debug/netcoreapp2.1/Validation.deps.json
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/bin/Debug/netcoreapp2.1/Validation.runtimeconfig.json
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/bin/Debug/netcoreapp2.1/Validation.runtimeconfig.dev.json
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/bin/Debug/netcoreapp2.1/Validation.dll
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/bin/Debug/netcoreapp2.1/Validation.pdb
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.csprojAssemblyReference.cache
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.csproj.CoreCompileInputs.cache
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.AssemblyInfoInputs.cache
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.AssemblyInfo.cs
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.dll
+/Users/padam/Documents/C#-ARMIT/Validation/Validation/Validation/obj/Debug/netcoreapp2.1/Validation.pdb
